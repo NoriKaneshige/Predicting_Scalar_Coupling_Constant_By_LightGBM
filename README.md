@@ -1,7 +1,7 @@
 # Predicting_Scalar_Coupling_Constant_By_LightGBM
 
 
-![predicting_scalar_coupling_approach](predicting_scalar_coupling_approach.gif)
+
 
 ![experiment_algorithms](https://github.com/NoriKaneshige/Predicting_Scalar_Coupling_Constant_By_LightGBM/blob/master/experiment_algorithms.png)
 
