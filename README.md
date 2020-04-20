@@ -10,4 +10,4 @@
 ![lightGBM_result_1](https://github.com/NoriKaneshige/Predicting_Scalar_Coupling_Constant_By_LightGBM/blob/master/lightGBM_result_1.png)
 
 
-![lightGBM_result_2](https://github.com/NoriKaneshige/Predicting_Scalar_Coupling_Constant_By_LightGBM/blob/master/lightGBM_result_2.png)
+![lightGBM_result_MAE](https://github.com/NoriKaneshige/Predicting_Scalar_Coupling_Constant_By_LightGBM/blob/master/lightGBM_MAE_result.png)
